@@ -10,4 +10,4 @@
 _I code for fun._
 <br/><br/>
 
-[🏠 Homepage](https://qxq.moe/en/) | [📝 Blog (CN)](https://rua.sh/)
+[🌐 Site](https://rua.sh/en) | [👤 Profile](https://qxq.moe/en/)
